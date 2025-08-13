@@ -1,0 +1,9 @@
+﻿  FileName.cpp
+F:\Semesters\3rd Semester\dsa lab project\dsa lab project\FileName.cpp(105,23): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semesters\3rd Semester\dsa lab project\dsa lab project\FileName.cpp(107,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semesters\3rd Semester\dsa lab project\dsa lab project\FileName.cpp(131,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semesters\3rd Semester\dsa lab project\dsa lab project\FileName.cpp(169,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semesters\3rd Semester\dsa lab project\dsa lab project\FileName.cpp(185,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semesters\3rd Semester\dsa lab project\dsa lab project\FileName.cpp(201,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semesters\3rd Semester\dsa lab project\dsa lab project\FileName.cpp(210,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  dsa lab project.vcxproj -> F:\Semesters\3rd Semester\dsa lab project\x64\Debug\dsa lab project.exe
